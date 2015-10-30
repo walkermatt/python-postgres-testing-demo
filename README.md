@@ -41,7 +41,7 @@ Once execution is paused you can get the connection parameters and connect to th
 
 Then connect to the database using `psql` using the database connection URL `db.url()` returned:
 
-    postgresql://postgres@127.0.0.1:46183/test
+    psql postgresql://postgres@127.0.0.1:46183/test
 
 ## Running
 
